@@ -1,6 +1,6 @@
 <?php
 require_once 'config.php';
-$pageTitle = 'Đăng ký tài khoản - CLICKBUY';
+$pageTitle = 'Đăng ký tài khoản - Long';
 $error = '';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
