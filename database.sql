@@ -1,7 +1,7 @@
-CREATE DATABASE IF NOT EXISTS clickbuy_phone
+CREATE DATABASE IF NOT EXISTS Long_phone
 CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
-USE clickbuy_phone;
+USE Long_phone;
 
 DROP TABLE IF EXISTS order_items;
 DROP TABLE IF EXISTS orders;
