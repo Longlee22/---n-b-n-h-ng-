@@ -1,6 +1,6 @@
 <?php
 require_once __DIR__ . '/../config.php';
-$pageTitle = $pageTitle ?? 'CLICKBUY - Điện thoại & phụ kiện';
+$pageTitle = $pageTitle ?? 'Long - Điện thoại & phụ kiện';
 ?>
 <!DOCTYPE html>
 <html lang="vi">
@@ -15,7 +15,7 @@ $pageTitle = $pageTitle ?? 'CLICKBUY - Điện thoại & phụ kiện';
     <div class="container topbar-inner">
         <a class="logo" href="index.php">
             <span class="logo-mark">◆</span>
-            <span>CLICK<span>BUY</span></span>
+            <span>Long<span>BUY</span></span>
         </a>
 
         <form class="search" action="phones.php" method="get">
