@@ -1,6 +1,6 @@
 <?php
 require_once 'config.php';
-$pageTitle = 'Thanh toán - CLICKBUY';
+$pageTitle = 'Thanh toán - Long';
 
 if (empty($_SESSION['cart'])) {
     header('Location: cart.php');
