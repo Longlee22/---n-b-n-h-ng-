@@ -1,6 +1,6 @@
 <?php
 require_once 'config.php';
-$pageTitle = 'Giỏ hàng - CLICKBUY';
+$pageTitle = 'Giỏ hàng - Long';
 
 $cart = $_SESSION['cart'] ?? [];
 $items = [];
