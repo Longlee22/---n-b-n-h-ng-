@@ -2,7 +2,7 @@
 session_start();
 
 $host = "localhost";
-$db   = "clickbuy_phone";
+$db   = "Long_phone";
 $user = "root";
 $pass = "";
 $charset = "utf8mb4";
