@@ -1,6 +1,6 @@
 <?php
 require_once 'config.php';
-$pageTitle = 'Phụ kiện - CLICKBUY';
+$pageTitle = 'Phụ kiện - Long';
 
 $q = trim($_GET['q'] ?? '');
 $sql = "SELECT * FROM products WHERE category='accessory'";
