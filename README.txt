@@ -8,7 +8,7 @@ Long PHONE STORE - PHP + MYSQL
 - Trình duyệt Chrome/Edge
 
 2. CÀI ĐẶT
-- Copy nguyên thư mục "clickbuy_phone_store" vào:
+- Copy nguyên thư mục "Long_phone_store" vào:
   C:\xampp\htdocs\
 
 - Mở XAMPP và Start:
@@ -23,7 +23,7 @@ Long PHONE STORE - PHP + MYSQL
 
 3. CHẠY WEBSITE
 Mở:
-http://localhost/clickbuy_phone_store/
+http://localhost/Long_phone_store/
 
 4. CÁC TRANG CHÍNH
 index.php          Trang chủ
