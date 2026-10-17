@@ -1,7 +1,7 @@
 <?php
 require_once 'config.php';
 
-$pageTitle = 'CLICKBUY - Trang chủ';
+$pageTitle = 'Long - Trang chủ';
 
 $hot = $pdo->query("SELECT * FROM products WHERE is_hot=1 ORDER BY id DESC LIMIT 6")->fetchAll();
 $accessories = $pdo->query("SELECT * FROM products WHERE category='accessory' ORDER BY is_hot DESC, id DESC LIMIT 4")->fetchAll();
@@ -11,7 +11,7 @@ require 'includes/header.php';
 
 <section class="hero">
     <div class="hero-copy">
-        <span class="eyebrow">CLICKBUY STORE</span>
+        <span class="eyebrow">Long STORE</span>
         <h1>Điện thoại & phụ kiện<br><span>công nghệ mới</span></h1>
         <p>Khám phá những mẫu điện thoại nổi bật, phụ kiện tiện ích và nhiều ưu đãi hấp dẫn.</p>
         <div class="hero-buttons">
