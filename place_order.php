@@ -56,7 +56,7 @@ try {
     die("Có lỗi khi tạo đơn hàng: " . e($e->getMessage()));
 }
 
-$pageTitle = 'Đặt hàng thành công - CLICKBUY';
+$pageTitle = 'Đặt hàng thành công - Long';
 require 'includes/header.php';
 ?>
 <div class="success">
