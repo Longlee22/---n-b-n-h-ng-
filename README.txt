@@ -1,4 +1,4 @@
-CLICKBUY PHONE STORE - PHP + MYSQL
+Long PHONE STORE - PHP + MYSQL
 ====================================
 
 1. YÊU CẦU
