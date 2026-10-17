@@ -1,6 +1,6 @@
 <?php
 require_once 'config.php';
-$pageTitle = 'Đăng nhập - CLICKBUY';
+$pageTitle = 'Đăng nhập - Long';
 $error = '';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
@@ -26,7 +26,7 @@ require 'includes/header.php';
     <div class="auth-card">
         <span class="eyebrow red">TÀI KHOẢN</span>
         <h1>Đăng nhập</h1>
-        <p>Chào mừng bạn quay lại CLICKBUY.</p>
+        <p>Chào mừng bạn quay lại Long.</p>
 
         <?php if (!empty($_GET['registered'])): ?><div class="alert success-alert">Đăng ký thành công. Hãy đăng nhập.</div><?php endif; ?>
         <?php if ($error): ?><div class="alert error"><?= e($error) ?></div><?php endif; ?>
