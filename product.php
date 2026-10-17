@@ -11,7 +11,7 @@ if (!$product) {
     die("Không tìm thấy sản phẩm.");
 }
 
-$pageTitle = $product['name'] . ' - CLICKBUY';
+$pageTitle = $product['name'] . ' - Long';
 
 $colors = array_filter(array_map('trim', explode(',', $product['colors'])));
 
