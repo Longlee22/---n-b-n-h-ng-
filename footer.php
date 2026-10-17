@@ -16,11 +16,11 @@
         <div>
             <h3>Hỗ trợ</h3>
             <p>Hotline: 1900 3347</p>
-            <p>Email: support@clickbuy.local</p>
+            <p>Email: support@Long.local</p>
             <p>08:00 - 22:00 mỗi ngày</p>
         </div>
     </div>
-    <div class="copyright">© 2026 CLICKBUY STORE · Bản demo đồ án</div>
+    <div class="copyright">© 2026 Long STORE · Bản demo đồ án</div>
 </footer>
 
 <script src="assets/js/app.js"></script>
